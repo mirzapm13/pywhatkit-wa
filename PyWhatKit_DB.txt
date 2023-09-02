@@ -1,0 +1,137 @@
+Date: 31/8/2023
+Time: 22:1
+Phone Number: +6281238284015
+Message: Hi, how are you?
+--------------------
+Date: 31/8/2023
+Time: 22:5
+Phone Number: +6281238284015
+Message: Hi, how are you?
+--------------------
+Date: 31/8/2023
+Time: 22:8
+Phone Number: +62895414598717
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:12
+Phone Number: +62895414598717
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:13
+Phone Number: +62895414598717
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:13
+Phone Number: +62895414598717
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:13
+Phone Number: +62895414598717
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:13
+Phone Number: +62895414598717
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:14
+Phone Number: +62895414598717
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:14
+Phone Number: +62895414598717
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:14
+Phone Number: +62895414598717
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:14
+Phone Number: +62895414598717
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:15
+Phone Number: +62895414598717
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:16
+Phone Number: +62895414598717
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:17
+Phone Number: +62895414598717
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:23
+Phone Number: +6281231907765
+Message: Test Python
+--------------------
+Date: 31/8/2023
+Time: 22:24
+Phone Number: +6281231907765
+Message: Test Python
+--------------------
+Date: 2/9/2023
+Time: 22:6
+Phone Number: +Taufik
+Message: Sorry bro ini buat test python 1
+--------------------
+Date: 2/9/2023
+Time: 22:6
+Phone Number: +Ozy
+Message: Sorry bro ini buat test python 2
+--------------------
+Date: 2/9/2023
+Time: 22:7
+Phone Number: +Taufik
+Message: Sorry bro ini buat test python 1
+--------------------
+Date: 2/9/2023
+Time: 22:8
+Phone Number: +Ozy
+Message: Sorry bro ini buat test python 2
+--------------------
+Date: 2/9/2023
+Time: 22:9
+Phone Number: +6281231907765
+Message: Sorry bro ini buat test python 1
+--------------------
+Date: 2/9/2023
+Time: 22:10
+Phone Number: +62895414598717
+Message: Sorry bro ini buat test python 2
+--------------------
+Date: 2/9/2023
+Time: 22:14
+Phone Number: +6281231907765
+Message: Sorry bro ini buat test python 1
+--------------------
+Date: 2/9/2023
+Time: 22:14
+Phone Number: +62895414598717
+Message: Sorry bro ini buat test python 2
+--------------------
+Date: 2/9/2023
+Time: 22:27
+Phone Number: +6281231907765
+Image: waduh.jpg
+Caption: Waduh Nigga 1
+--------------------
+Date: 2/9/2023
+Time: 22:27
+Phone Number: +62895414598717
+Image: waduh.jpg
+Caption: Waduh Nigga 2
+--------------------
